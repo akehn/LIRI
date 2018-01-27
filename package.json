@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akehn/LIRI.git"
+  },
+  "author": "Anthony Kehn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akehn/LIRI/issues"
+  },
+  "homepage": "https://github.com/akehn/LIRI#readme",
+  "dependencies": {
+    "lme": "^1.5.3",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
